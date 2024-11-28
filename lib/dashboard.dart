@@ -87,6 +87,9 @@ class ExampleChart extends StatefulWidget {
 }
 
 class ExampleChartState extends State<ExampleChart> {
+
+
+
   final String _chartData = '''{
       title: {
           text: 'Combination chart'
